@@ -18,7 +18,7 @@ body {
 
 .section-hero {
   background-color: #ffffff;
-  padding: 8rem 20rem;
+  padding: 8rem 25rem;
   font-size: 3rem;
 }
 
@@ -32,7 +32,8 @@ body {
 .name,
 .summary h3,
 .summary h1,
-.summary p {
+.summary p,
+.bridam h1 {
   margin-bottom: 1.5rem;
 }
 
@@ -83,4 +84,28 @@ body {
   font-size: 2rem;
   text-decoration: none;
   color: #126796;
+}
+
+.work {
+  font-size: 4.5rem;
+  font-weight: 700;
+  color: #126796;
+  margin-bottom: 3.5rem;
+}
+
+.bridam {
+  padding: 0rem 4rem;
+}
+.bridam h1 {
+  color: #000;
+}
+
+.space {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.space h3 {
+  color: #000;
 }
