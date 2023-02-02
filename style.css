@@ -95,6 +95,7 @@ body {
 
 .bridam {
   padding: 0rem 4rem;
+  margin-bottom: 2.5rem;
 }
 .bridam h1 {
   color: #000;
@@ -108,4 +109,19 @@ body {
 
 .space h3 {
   color: #000;
+  margin-bottom: 1.5rem;
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: 600;
+  padding: 1.6rem 3.2rem;
+  border-radius: 9px;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  background-color: #929292;
+  color: #fff;
 }
