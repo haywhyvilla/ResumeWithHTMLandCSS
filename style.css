@@ -132,3 +132,11 @@ body {
 a {
   text-decoration: none;
 }
+
+.omo {
+  display: flex;
+  gap: 10px;
+}
+a ion-icon {
+  color: #686868;
+}
