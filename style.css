@@ -129,7 +129,7 @@ body {
 .gra {
   color: #686868;
 }
-a {
+.omo {
   text-decoration: none;
 }
 
@@ -137,6 +137,6 @@ a {
   display: flex;
   gap: 10px;
 }
-a ion-icon {
+.omo ion-icon {
   color: #686868;
 }
